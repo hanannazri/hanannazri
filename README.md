@@ -34,15 +34,9 @@ Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning 
 
 ## Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Machine Learning & Forecasting
+### Machine Learning ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge) ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge) ![Optuna](https://img.shields.io/badge/Optuna-6A1B9A?style=for-the-badge)
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
-![Optuna](https://img.shields.io/badge/Optuna-6A1B9A?style=for-the-badge)
-
-### Deep Learning & NLP
+### Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
