@@ -11,7 +11,6 @@
   <a href="linkedin.com/in/hanan-nazri ">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" />
   </a>
-<p align="center">
   <a href="https://github.com/hanannazri">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" />
   </a>
