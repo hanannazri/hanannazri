@@ -30,8 +30,6 @@ Delivering    : Predictive Analytics • Business Intelligence •Interactive AI
 Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning Systems
 ```
 
-## Tech Stack
-
 ### Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge) ![Optuna](https://img.shields.io/badge/Optuna-6A1B9A?style=for-the-badge)
