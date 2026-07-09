@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:hanankp283@gmail.com">
-    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" />
+    <img src="https://img.shields.io/badge/Email-hanankp283@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" />
   </a>
   <a href="linkedin.com/in/hanan-nazri ">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" />
