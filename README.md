@@ -20,11 +20,21 @@
 
 ## About Me
 
-I build end-to-end machine learning applications that transform data into intelligent and practical solutions.
+```yaml
+Developing    : End-to-End Machine Learning Applications
 
-My work covers predictive analytics, business intelligence, time-series forecasting, natural language processing, and MLOps, with a focus on developing complete machine learning workflows from data engineering and feature engineering to model development, deployment, and interactive applications.
+Specializing  : Demand Forecasting • Customer Churn Analysis •
+                Natural Language Processing
 
-I explore modern AI systems, deployment-ready architectures, and engineering practices that make machine learning solutions reliable, scalable, and business-focused.
+Workflow      : Data Engineering • Feature Engineering •
+                Model Development • MLOps • Deployment
+
+Delivering    : Predictive Analytics • Business Intelligence •
+                Interactive AI Applications
+
+Exploring     : AI Assistants • LLM Integration • Scalable
+                Machine Learning Systems
+```
 
 ---
 
