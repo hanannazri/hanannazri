@@ -27,7 +27,7 @@ Specializing  : Demand Forecasting • Customer Churn Analysis •Natural Langua
 
 Workflow      : Data Engineering • Feature Engineering •Model Development • MLOps • Deployment
 
-Delivering    : Predictive Analytics • Business Intelligence •Interactive AI Applications
+Covering      : Predictive Analytics • Business Intelligence •Interactive AI Applications
 
 Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning Systems
 ```
@@ -35,7 +35,7 @@ Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning 
 
 ### Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Machine Learning ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge) ![Optuna](https://img.shields.io/badge/Optuna-6A1B9A?style=for-the-badge)
+### Machine Learning ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge) ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge) ![Optuna](https://img.shields.io/badge/Optuna-6A1B9A?style=for-the-badge)
 
 ### Deep Learning & NLP ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge) ![DistilBERT](https://img.shields.io/badge/DistilBERT-5E35B1?style=for-the-badge)
 
@@ -43,4 +43,4 @@ Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning 
 
 ### Data Analysis ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
 
-### MLOps & Deployment ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### MLOps & Deployment ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
