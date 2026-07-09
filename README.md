@@ -21,17 +21,13 @@
 ```yaml
 Developing    : End-to-End Machine Learning Applications
 
-Specializing  : Demand Forecasting • Customer Churn Analysis •
-                Natural Language Processing
+Specializing  : Demand Forecasting • Customer Churn Analysis •Natural Language Processing
 
-Workflow      : Data Engineering • Feature Engineering •
-                Model Development • MLOps • Deployment
+Workflow      : Data Engineering • Feature Engineering •Model Development • MLOps • Deployment
 
-Delivering    : Predictive Analytics • Business Intelligence •
-                Interactive AI Applications
+Delivering    : Predictive Analytics • Business Intelligence •Interactive AI Applications
 
-Exploring     : AI Assistants • LLM Integration • Scalable
-                Machine Learning Systems
+Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning Systems
 ```
 
 ## Tech Stack
