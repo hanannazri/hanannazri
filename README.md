@@ -6,12 +6,15 @@
 
 <p align="center">
   <a href="mailto:hanankp283@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" />
   </a>
-  <a href=" linkedin.com/in/hanan-nazri">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="linkedin.com/in/hanan-nazri ">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" />
   </a>
-  <a href="https://github.com/hanannazri?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/hanannazri">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" />
   </a>
 </p>
