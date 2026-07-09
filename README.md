@@ -32,39 +32,14 @@ Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning 
 
 ## Tech Stack
 
-## Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge) ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge) ![Optuna](https://img.shields.io/badge/Optuna-6A1B9A?style=for-the-badge)
 
-### Deep Learning
+### Deep Learning ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge) ![DistilBERT](https://img.shields.io/badge/DistilBERT-5E35B1?style=for-the-badge)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-5E35B1?style=for-the-badge)
+### Data Engineering ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![ETL/ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-1E88E5?style=for-the-badge) ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-26A69A?style=for-the-badge) ![Data Validation](https://img.shields.io/badge/Data_Validation-546E7A?style=for-the-badge)
 
-### Data Engineering
+### Data Analysis & Visualization ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
 
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-1E88E5?style=for-the-badge)
-![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-26A69A?style=for-the-badge)
-![Data Validation](https://img.shields.io/badge/Data_Validation-546E7A?style=for-the-badge)
-
-### Data Analysis & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
-
-### MLOps & Deployment
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-5C6BC0?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### MLOps & Deployment ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-5C6BC0?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
