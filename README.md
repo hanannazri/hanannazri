@@ -19,7 +19,7 @@
 ## About Me
 
 ```yaml
-Developing    : End-to-End Machine Learning Applications
+Building      : End-to-End Machine Learning Applications
 
 Specializing  : Demand Forecasting • Customer Churn Analysis •Natural Language Processing
 
@@ -29,6 +29,7 @@ Delivering    : Predictive Analytics • Business Intelligence •Interactive AI
 
 Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning Systems
 ```
+---
 
 ### Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -37,6 +38,10 @@ Exploring     : AI Assistants • LLM Integration • Scalable Machine Learning 
 ### Deep Learning & NLP ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge) ![DistilBERT](https://img.shields.io/badge/DistilBERT-5E35B1?style=for-the-badge)
 
 ### Data Engineering ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![ETL / ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-1E88E5?style=for-the-badge) ![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-26A69A?style=for-the-badge)
+
+---
+
+## Projects
 
 ### Data Analysis ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
 
