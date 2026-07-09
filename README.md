@@ -16,8 +16,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 ```yaml
@@ -36,14 +34,9 @@ Exploring     : AI Assistants • LLM Integration • Scalable
                 Machine Learning Systems
 ```
 
----
-
 ## Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Languages ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning & Forecasting
 
